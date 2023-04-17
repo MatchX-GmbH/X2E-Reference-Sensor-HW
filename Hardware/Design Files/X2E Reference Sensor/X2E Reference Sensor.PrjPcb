@@ -203,6 +203,40 @@ GenerateClassCluster=0
 DocumentUniqueId=SYAVNYEK
 
 [Document10]
+DocumentPath=GPS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GMYWEMAX
+
+[Document11]
+DocumentPath=LCD.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NXZEYKUE
+
+[Document12]
 DocumentPath=DOC REVISION HISTORY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHYASOFU
 
-[Document11]
+[Document13]
 DocumentPath=X2E Reference Sensor.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,74 +270,92 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLIXOIOR
 
+[Document14]
+DocumentPath=X2E Reference Sensor.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=232A7918-330E-4A96-818D-F77CEC6F4714
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
+VariationCount=2
 Variation1=Designator=R?|UniqueId=\HBSDTFZE|Kind=1|AlternatePart= 
+Variation2=Designator=C?|UniqueId=\BDCLTBJE|Kind=0|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
-Name=VersionRevision
-Value=V1.0
+Name=ClientCompanyName
+Value=MatchX GmbH
 
 [Parameter2]
-Name=TotalSheetNumber
-Value=9
+Name=ClientContactEmail
+Value=piotr@matchx.io
 
 [Parameter3]
-Name=Title
-Value=X2E Reference Sensor
+Name=ClientContactName
+Value=Piotr Swiatek Brzezinski
 
 [Parameter4]
-Name=revision
-Value=1.0
+Name=ClientWebsite
+Value=www.matchx.io
 
 [Parameter5]
-Name=Project
-Value=X2E Reference Sensor
+Name=Company
+Value=MatchX
 
 [Parameter6]
-Name=organization
+Name=CompanyName
 Value=MatchX GmbH
 
 [Parameter7]
-Name=NotFitted
-Value=NF
+Name=DocumentNumber
+Value=001
 
 [Parameter8]
 Name=Engineer
 Value=PSB
 
 [Parameter9]
-Name=DocumentNumber
-Value=001
+Name=NotFitted
+Value=NF
 
 [Parameter10]
-Name=CompanyName
+Name=organization
 Value=MatchX GmbH
 
 [Parameter11]
-Name=Company
-Value=MatchX
+Name=Project
+Value=X2E Reference Sensor
 
 [Parameter12]
-Name=ClientWebsite
-Value=www.matchx.io
+Name=revision
+Value=1.0
 
 [Parameter13]
-Name=ClientContactName
-Value=Piotr Swiatek Brzezinski
+Name=Title
+Value=X2E Reference Sensor
 
 [Parameter14]
-Name=ClientContactEmail
-Value=piotr@matchx.io
+Name=TotalSheetNumber
+Value=9
 
 [Parameter15]
-Name=ClientCompanyName
-Value=MatchX GmbH
+Name=VersionRevision
+Value=V1.0
 
 [Configuration1]
 Name=Sources
@@ -314,6 +366,44 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+Wir_PrintColor=0
+Ldr_PrintColor=0
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -520,6 +610,12 @@ OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=PCBDrawing
+OutputName14=Draftsman
+OutputDocumentPath14=
+OutputVariantName14=[No Variations]
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1276,10 +1372,16 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=psblib.SCHLIB
-ComponentDesignItemID0=ESP32-S3-MINI-1-N4R2
-ComponentSymbolReference0=ESP32-S3-MINI-1-N4R2
+ComponentDesignItemID0=BQ27220YZFR
+ComponentSymbolReference0=BQ27220YZFR
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=psblib.SCHLIB
+ComponentDesignItemID1=R0402-10k
+ComponentSymbolReference1=R0402-10k
+ComponentUpdate1=0
+ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1293,23 +1395,90 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
+ParameterName0=.Checked PCB
 ParameterUpdate0=1
-ParameterName1=Component Kind
+ParameterName1=.Checked SCH
 ParameterUpdate1=1
-ParameterName2=Description
+ParameterName2=Battery Chemistry
 ParameterUpdate2=1
-ParameterName3=Library Reference
+ParameterName3=Category
 ParameterUpdate3=1
-ParameterName4=Manufacturer
+ParameterName4=Comment
 ParameterUpdate4=1
-ParameterName5=Manufacturer Part Number
+ParameterName5=Component Kind
 ParameterUpdate5=1
+ParameterName6=ComponentLink1Description
+ParameterUpdate6=1
+ParameterName7=ComponentLink1URL
+ParameterUpdate7=1
+ParameterName8=ComponentLink2Description
+ParameterUpdate8=1
+ParameterName9=ComponentLink2URL
+ParameterUpdate9=1
+ParameterName10=Composition
+ParameterUpdate10=1
+ParameterName11=Description
+ParameterUpdate11=1
+ParameterName12=Features
+ParameterUpdate12=1
+ParameterName13=Height
+ParameterUpdate13=1
+ParameterName14=Interface
+ParameterUpdate14=1
+ParameterName15=Lead Free
+ParameterUpdate15=1
+ParameterName16=Library Reference
+ParameterUpdate16=1
+ParameterName17=Manufacturer
+ParameterUpdate17=1
+ParameterName18=Manufacturer Part Number
+ParameterUpdate18=1
+ParameterName19=Max Operating Temperature
+ParameterUpdate19=1
+ParameterName20=Min Operating Temperature
+ParameterUpdate20=1
+ParameterName21=Mounting Technology
+ParameterUpdate21=1
+ParameterName22=Number of Cells
+ParameterUpdate22=1
+ParameterName23=Number of Terminations
+ParameterUpdate23=1
+ParameterName24=Package / Case
+ParameterUpdate24=1
+ParameterName25=Packaging
+ParameterUpdate25=1
+ParameterName26=Pins
+ParameterUpdate26=1
+ParameterName27=Power (Watts)
+ParameterUpdate27=1
+ParameterName28=Pricing 1
+ParameterUpdate28=1
+ParameterName29=RoHS
+ParameterUpdate29=1
+ParameterName30=RoHS Compliant
+ParameterUpdate30=1
+ParameterName31=Series
+ParameterUpdate31=1
+ParameterName32=Size / Dimension
+ParameterUpdate32=1
+ParameterName33=Stock 1
+ParameterUpdate33=1
+ParameterName34=Supplier 1
+ParameterUpdate34=1
+ParameterName35=Supplier Part Number 1
+ParameterUpdate35=1
+ParameterName36=Tolerance
+ParameterUpdate36=1
+ParameterName37=Value
+ParameterUpdate37=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=ESP32-S3-MINI-1-N4R2
+ModelName0=IC_BQ27421YZFR-G1A
 ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=R0402
+ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
