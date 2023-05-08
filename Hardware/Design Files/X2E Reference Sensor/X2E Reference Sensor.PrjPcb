@@ -309,12 +309,21 @@ UniqueID=232A7918-330E-4A96-818D-F77CEC6F4714
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=5
+VariationCount=14
 Variation1=Designator=R?|UniqueId=\HBSDTFZE|Kind=1|AlternatePart= 
 Variation2=Designator=C?|UniqueId=\BDCLTBJE|Kind=0|AlternatePart= 
 Variation3=Designator=J1|UniqueId=\FNVFLOJH|Kind=1|AlternatePart= 
 Variation4=Designator=P1|UniqueId=\SFKICHCH|Kind=1|AlternatePart= 
 Variation5=Designator=P3|UniqueId=\YXYPCKUW|Kind=1|AlternatePart= 
+Variation6=Designator=C9|UniqueId=\IWEVNGAO|Kind=1|AlternatePart= 
+Variation7=Designator=C34|UniqueId=\XYSARFBA|Kind=1|AlternatePart= 
+Variation8=Designator=C87|UniqueId=\THNMZJAC|Kind=1|AlternatePart= 
+Variation9=Designator=C88|UniqueId=\MWFFLVXP|Kind=1|AlternatePart= 
+Variation10=Designator=C100|UniqueId=\SUDAYGVA|Kind=1|AlternatePart= 
+Variation11=Designator=C99|UniqueId=\NAJUBAPY|Kind=1|AlternatePart= 
+Variation12=Designator=C8|UniqueId=\GLZSETET|Kind=1|AlternatePart= 
+Variation13=Designator=R39|UniqueId=\EGQGWNTS|Kind=1|AlternatePart= 
+Variation14=Designator=R46|UniqueId=\DLWTMFFX|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
