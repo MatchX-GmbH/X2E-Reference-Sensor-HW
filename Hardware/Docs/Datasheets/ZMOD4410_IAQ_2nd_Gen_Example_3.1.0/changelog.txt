@@ -1,0 +1,24 @@
+3.1.0:
+    - damage test are now after stabilization time
+    - min Rmox fail limit changed to 250 Ohm
+3.0.0:
+    - Improved eCO2
+    - Improved RH/T compensation
+    - Adapted cleaning procedure and used by default
+    - Add growing baseline decay (replacing restart after 48 hours)
+    - Add sensor self-check
+    - Add Raspberry Pi example
+2.2.0:
+    - Add Arduino example
+    - Improve library calculation algorithm
+    - Add polling time-out
+    - Update source code license notice
+2.1.2:
+    - Add interrupt usage hint in main.c file.
+    - Minor improvement of API to overcome rare bug after resetting the sensor.
+2.1.0:
+    - Add library version as variable (type of algorithm_version)
+    - Improve algorithm(iaq_2nd_gen) with more training data.
+2.0.0:
+    - Initial version.
+
