@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\Projects\x2e-reference-sensor\Hardware\Design Files\X2E Reference Sensor\X2E Reference Sensor.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=x2e reference sensor_default_nc drill files-roundholes-plated.txt|DrillLayers=gtl,gp1,g1,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=x2e reference sensor_default_nc drill files-slotholes-plated.txt|DrillLayers=gtl,gp1,g1,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=x2e reference sensor_default_nc drill files-roundholes-nonplated.txt|DrillLayers=gtl,gp1,g1,gbl

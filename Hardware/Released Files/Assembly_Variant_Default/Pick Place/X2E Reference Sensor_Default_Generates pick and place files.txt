@@ -5,8 +5,8 @@ D:\Projects\x2e-reference-sensor\Hardware\Released Files\Assembly_Variant_Defaul
 File Design Information:
 
 Date:       08/05/23
-Time:       13:13
-Revision:   7d62a101a6269615cd38e4daec223b9c2b19a141
+Time:       13:57
+Revision:   2403d8faf6f179f0ba8e94b3a746f4f9fd3e6ad0
 Variant:    Default
 Units used: mm
 
