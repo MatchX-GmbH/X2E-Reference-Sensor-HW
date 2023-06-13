@@ -12,7 +12,7 @@ SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
-AllowPortNetNames=0
+AllowPortNetNames=1
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
@@ -220,23 +220,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GMYWEMAX
 
 [Document11]
-DocumentPath=LCD.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NXZEYKUE
-
-[Document12]
 DocumentPath=DOC REVISION HISTORY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHYASOFU
 
-[Document13]
+[Document12]
 DocumentPath=X2E Reference Sensor.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLIXOIOR
 
-[Document14]
+[Document13]
 DocumentPath=X2E Reference Sensor.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=X2E Reference Sensor.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +292,7 @@ UniqueID=232A7918-330E-4A96-818D-F77CEC6F4714
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=16
+VariationCount=21
 Variation1=Designator=R?|UniqueId=\HBSDTFZE|Kind=1|AlternatePart= 
 Variation2=Designator=C?|UniqueId=\BDCLTBJE|Kind=0|AlternatePart= 
 Variation3=Designator=J1|UniqueId=\FNVFLOJH|Kind=1|AlternatePart= 
@@ -326,6 +309,11 @@ Variation13=Designator=R39|UniqueId=\EGQGWNTS|Kind=1|AlternatePart=
 Variation14=Designator=R46|UniqueId=\DLWTMFFX|Kind=1|AlternatePart= 
 Variation15=Designator=C9|UniqueId=\URKPBERY|Kind=1|AlternatePart= 
 Variation16=Designator=C34|UniqueId=\PRNUZFMX|Kind=1|AlternatePart= 
+Variation17=Designator=R25|UniqueId=\YQQZXFGZ|Kind=1|AlternatePart= 
+Variation18=Designator=C99|UniqueId=\QKVVWBCU|Kind=1|AlternatePart= 
+Variation19=Designator=C100|UniqueId=\KRGYGSGG|Kind=1|AlternatePart= 
+Variation20=Designator=C87|UniqueId=\YWCNSUFA|Kind=1|AlternatePart= 
+Variation21=Designator=C88|UniqueId=\TGTZIJTA|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -557,176 +545,184 @@ DocumentPath=C:\Users\MOHAM_~1\AppData\Local\Temp\Qjz8C20.xls
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=C:\Users\MOHAM_~1\AppData\Local\Temp\QjzC732.xls
+DocumentPath=C:\Users\MOHAM_~1\AppData\Local\Temp\Qjz52AC.xls
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=C:\Users\MOHAM_~1\AppData\Local\Temp\QjzD80B.xls
+DocumentPath=C:\Users\MOHAM_~1\AppData\Local\Temp\Qjz411F.xls
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\stephdr
+DocumentPath=C:\Users\MOHAM_~1\AppData\Local\Temp\QjzC732.xls
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DocumentPath=C:\Users\MOHAM_~1\AppData\Local\Temp\QjzD80B.xls
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\BOM\X2E Reference Sensor_Default_Bill of Materials.xlsx
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\Pick Place\X2E Reference Sensor_Default_Generates pick and place files.txt
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.EXTREP
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\BOM\X2E Reference Sensor_Default_Bill of Materials.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.G1
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\Pick Place\X2E Reference Sensor_Default_Generates pick and place files.txt
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GBL
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GBO
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.G1
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GBP
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GBS
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GM2
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GP1
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GTL
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GTO
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GTP
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GTS
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.REP
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.RUL
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files-RoundHoles-NonPlated.TXT
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.REP
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files-RoundHoles-Plated.TXT
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files-SlotHoles-Plated.TXT
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files-RoundHoles-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files.DRL
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files-RoundHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files.DRR
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files-SlotHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files.LDP
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument85]
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument87]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\X2E Reference Sensor_Default_ODB++ Files.REP
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ClientCompanyName
-Value=MatchX GmbH
+Name=VersionRevision
+Value=V1.0
 
 [Parameter2]
-Name=ClientContactEmail
-Value=piotr@matchx.io
+Name=TotalSheetNumber
+Value=9
 
 [Parameter3]
-Name=ClientContactName
-Value=Piotr Swiatek Brzezinski
+Name=Title
+Value=X2E Reference Sensor
 
 [Parameter4]
-Name=ClientWebsite
-Value=www.matchx.io
+Name=revision
+Value=1.0
 
 [Parameter5]
-Name=Company
-Value=MatchX
+Name=Project
+Value=X2E Reference Sensor
 
 [Parameter6]
-Name=CompanyName
+Name=organization
 Value=MatchX GmbH
 
 [Parameter7]
-Name=DocumentNumber
-Value=001
+Name=NotFitted
+Value=NF
 
 [Parameter8]
 Name=Engineer
 Value=PSB
 
 [Parameter9]
-Name=NotFitted
-Value=NF
+Name=DocumentNumber
+Value=001
 
 [Parameter10]
-Name=organization
+Name=CompanyName
 Value=MatchX GmbH
 
 [Parameter11]
-Name=Project
-Value=X2E Reference Sensor
+Name=Company
+Value=MatchX
 
 [Parameter12]
-Name=revision
-Value=1.0
+Name=ClientWebsite
+Value=www.matchx.io
 
 [Parameter13]
-Name=Title
-Value=X2E Reference Sensor
+Name=ClientContactName
+Value=Piotr Swiatek Brzezinski
 
 [Parameter14]
-Name=TotalSheetNumber
-Value=9
+Name=ClientContactEmail
+Value=piotr@matchx.io
 
 [Parameter15]
-Name=VersionRevision
-Value=V1.0
+Name=ClientCompanyName
+Value=MatchX GmbH
 
 [Configuration1]
 Name=Sources
