@@ -289,7 +289,7 @@ UniqueID=232A7918-330E-4A96-818D-F77CEC6F4714
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=21
+VariationCount=23
 Variation1=Designator=R?|UniqueId=\HBSDTFZE|Kind=1|AlternatePart= 
 Variation2=Designator=C?|UniqueId=\BDCLTBJE|Kind=0|AlternatePart= 
 Variation3=Designator=J1|UniqueId=\FNVFLOJH|Kind=1|AlternatePart= 
@@ -311,6 +311,8 @@ Variation18=Designator=C99|UniqueId=\QKVVWBCU|Kind=1|AlternatePart=
 Variation19=Designator=C100|UniqueId=\KRGYGSGG|Kind=1|AlternatePart= 
 Variation20=Designator=C87|UniqueId=\YWCNSUFA|Kind=1|AlternatePart= 
 Variation21=Designator=C88|UniqueId=\TGTZIJTA|Kind=1|AlternatePart= 
+Variation22=Designator=R?|UniqueId=\EILLGQWO|Kind=1|AlternatePart= 
+Variation23=Designator=R?|UniqueId=\LDRVJOZW|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
