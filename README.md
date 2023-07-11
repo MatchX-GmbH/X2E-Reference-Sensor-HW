@@ -26,9 +26,9 @@ The main features of the board include:
 
 ## Pinout
 
-![image info](./Docs/pictures/matchx%20x2e%20red%20des%20pinout%201.png)
+![image info](./Docs/pictures/matchx%20x2e%20ref%20des%20pinout%201.png)
 
-![image info](./Docs/pictures/matchx%20x2e%20red%20des%20pinout%202.png)
+![image info](./Docs/pictures/matchx%20x2e%20ref%20des%20pinout%202.png)
 
 ## Software
 
