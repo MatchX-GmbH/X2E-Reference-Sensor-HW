@@ -40,5 +40,13 @@ The software reference design can be found here:
 
 [ESP32-S3 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf) (PDF)
 
+[Semtech SX1261 Product Details](https://www.semtech.com/products/wireless-rf/lora-connect/sx1261) 
+
+[Semtech SX1280 Product Details](https://www.semtech.com/products/wireless-rf/lora-connect/sx1280) 
+
+[Low-power wide-area network - Wikipedia](https://en.wikipedia.org/wiki/Low-power_wide-area_network)
+
+[MXCzkEVM MEP-802 Github](https://github.com/MXCzkEVM/MEPs/blob/main/proposals/mep-802.md)
+
 ## Contact Us
 https://matchx.io/pages/contact-us
