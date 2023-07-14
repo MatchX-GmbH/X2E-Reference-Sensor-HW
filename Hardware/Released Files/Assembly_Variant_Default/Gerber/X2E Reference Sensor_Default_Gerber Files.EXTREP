@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: X2E Reference Sensor_Default_Gerber Files.GBR   14.07.2023  15:53:43
+Gerber File Extension Report For: X2E Reference Sensor_Default_Gerber Files.GBR   14.07.2023  17:10:38
 ------------------------------------------------------------------------------------------
 
 
@@ -17,4 +17,5 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM2                Board                                   
+.GM14               Route Tool Path                         
 ------------------------------------------------------------------------------------------
