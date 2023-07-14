@@ -5,16 +5,16 @@ D:\src\Altium\x2e-reference-sensor\Hardware\Released Files\Assembly_Variant_Defa
 File Design Information:
 
 Date:       14.07.23
-Time:       12:38
-Revision:   8de79cd6e4d9ff46f81615dc68a733288fb6fda9
+Time:       15:53
+Revision:   3431f9ff59b0ac57fe78533f0d73eaf8628f13f2
 Variant:    Default
 Units used: mm
 
 Designator Comment              Layer       Footprint                       Center-X(mm) Center-Y(mm) Rotation Description                                                                                                        
-J8         Arduino_Conn         TopLayer    Arduino-D                       -24.1500     2.8260       270      "Arduino Template"                                                                                                 
-J6         Arduino_Conn         TopLayer    Arduino-C                       -24.1500     27.2100      270      "Arduino Template"                                                                                                 
-J7         Arduino_Conn         TopLayer    Arduino-B                       24.1100      29.7500      90       "Arduino Template"                                                                                                 
-J9         Arduino_Conn         TopLayer    Arduino-A                       24.1100      9.4300       90       "Arduino Template"                                                                                                 
+J8         Arduino_Conn         TopLayer    ARDUINO-D                       -24.1500     2.8260       270      "Arduino Template"                                                                                                 
+J6         Arduino_Conn         TopLayer    ARDUINO-C                       -24.1500     27.2100      270      "Arduino Template"                                                                                                 
+J7         Arduino_Conn         TopLayer    ARDUINO-B                       24.1100      29.7500      90       "Arduino Template"                                                                                                 
+J9         Arduino_Conn         TopLayer    ARDUINO-A                       24.1100      9.4300       90       "Arduino Template"                                                                                                 
 TP2        TP                   BottomLayer TP_SMD_1.5mm                    -11.0500     23.7000      0        "Test Point"                                                                                                       
 TP1        TP                   BottomLayer TP_SMD_1.5mm                    -1.7500      18.6000      0        "Test Point"                                                                                                       
 R26        1k                   TopLayer    R0402                           1.0500       -17.6000     0        "RES, 1k, 1%, 1/16 W, 0402"                                                                                        
@@ -22,7 +22,6 @@ U2         SIM28ML              TopLayer    SIM28ML                         -7.8
 R24        10R                  TopLayer    R0402                           4.1500       3.7000       0        "RES, 10R, 1%, 1/16 W, 0402"                                                                                       
 R23        2k                   TopLayer    R0603                           4.7500       14.4500      90       "RES, 2k, 1%, 0.063 W, 0603"                                                                                       
 D13        150060GS75000        TopLayer    LED0603                         4.7500       12.0500      90       "Green 520nm LED Indication - Discrete 3.2V 0603 (1608 Metric)"                                                    
-R22        10k                  TopLayer    R0402                           17.7000      -16.8000     270      "RES, 10k, 1%, 1/16 W, 0402"                                                                                       
 R31        0R                   TopLayer    R0402                           13.1500      17.1000      270      "RES, 0R, 1%, 1/16 W, 0402"                                                                                        
 R30        0R                   TopLayer    R0402                           13.1500      14.4000      270      "RES, 0R, 1%, 1/16 W, 0402"                                                                                        
 L6         BLM18KG601SH1D       TopLayer    L0603                           14.2000      21.2000      180      "Ferrite Beads 0603 600ohms 1.3A DCR=.15ohms"                                                                      
