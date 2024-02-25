@@ -5,8 +5,8 @@ D:\src\Altium\x2e-reference-sensor\Hardware\Released Files\Assembly_Variant_Defa
 File Design Information:
 
 Date:       25.02.24
-Time:       21:37
-Revision:   8c0882567ace91153cb576113676e3cc24c0e800
+Time:       22:07
+Revision:   ad13a999f3264f748d2f30353cb064fc3106f27a
 Variant:    Default
 Units used: mm
 
@@ -44,7 +44,7 @@ C43        10uF                 TopLayer    C0805                           -20.
 R50        0R                   TopLayer    R0402                           -3.4000      18.5000      270      "RES, 0R, 1%, 1/16 W, 0402"                                                                                        
 R49        0R                   TopLayer    R0402                           -2.4000      18.5000      270      "RES, 0R, 1%, 1/16 W, 0402"                                                                                        
 IC9        BQ27220YZFR          TopLayer    IC_BQ27421YZFR-G1A              15.7540      -11.5460     90       "Single cell pack/system-side CEDV battery fuel (gas) gauge w/pre-programmed chemistry profiles 9-DSBGA -40 to 85" 
-R48        10k                  TopLayer    R0402                           15.8000      -13.1000     0        "RES, 10k, 1%, 1/16 W, 0402"                                                                                       
+R48        10k                  TopLayer    R0402                           15.8000      -13.1000     180      "RES, 10k, 1%, 1/16 W, 0402"                                                                                       
 R47        0.01R                TopLayer    R0805                           17.6540      -11.8460     90       "RES, 10 mOhm, 1%, 1/8W, 0805"                                                                                     
 L7         27nH                 TopLayer    L0402                           4.6500       1.4523       90       "Inductor, Wirewound, 27 nH, 280mA , 520mOhm, SMD"                                                                 
 C42        2.2uF                TopLayer    C0402                           14.9540      -10.0460     180      "CAP, CERM, 2.2uF, 10V, +/- 10%, X5R, 0402"                                                                        
