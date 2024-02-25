@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: X2E Reference Sensor.PcbDoc   14.07.2023  17:10:41
+NCDrill File Report For: X2E Reference Sensor.PcbDoc   25.02.2024  21:37:22
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -10,14 +10,15 @@ EIA File   : X2E Reference Sensor_Default_NC Drill Files.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             619       PTH        1459.40mm (57.46inch)
-T2      0.6mm (24mil)                                             Slot              4         PTH        47.93mm (1.89inch)
-T3      0.8mm (31mil)                                             Round             4         PTH        6.00mm (0.24inch)
-T4      1mm (39mil)                                               Round             32        PTH        184.41mm (7.26inch)
-T5      1.1mm (43mil)                                             Round             6         PTH        12.70mm (0.50inch)
-T6      3.3mm (130mil)                                            Round             4         PTH        128.53mm (5.06inch)
-T7      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+T1      0.25mm (10mil)                                            Round             16        PTH        121.75mm (4.79inch)
+T2      0.3mm (12mil)                                             Round             612       PTH        1485.70mm (58.49inch)
+T3      0.6mm (24mil)                                             Slot              4         PTH        38.14mm (1.50inch)
+T4      0.8mm (31mil)                                             Round             4         PTH        6.00mm (0.24inch)
+T5      0.9mm (35mil)                                             Round             2         PTH        2.00mm (0.08inch)
+T6      1mm (39mil)                                               Round             32        PTH        184.41mm (7.26inch)
+T7      1.1mm (43mil)                                             Round             6         PTH        12.70mm (0.50inch)
+T8      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              671
+Totals                                                                              678
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
