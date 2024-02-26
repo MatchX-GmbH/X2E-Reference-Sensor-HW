@@ -4,8 +4,8 @@ D:\src\Altium\x2e-reference-sensor\Hardware\Released Files\Assembly_Variant_Defa
 ========================================================================================================================
 File Design Information:
 
-Date:       25.02.24
-Time:       22:07
+Date:       26.02.24
+Time:       18:49
 Revision:   ad13a999f3264f748d2f30353cb064fc3106f27a
 Variant:    Default
 Units used: mm
