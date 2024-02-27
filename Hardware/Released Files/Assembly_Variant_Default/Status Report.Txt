@@ -1,14 +1,10 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 19:26:42 On 25/08/2023
-
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [Default] of Project [X2E Reference Sensor.PrjPcb]
-   Generated File[X2E Reference Sensor_Default_Bill of Materials.xlsx]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [Default] of PCB Document [X2E Reference Sensor.PcbDoc]
+   Generated File[X2E Reference Sensor_Default_Generates pick and place files.txt]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 19:27:00 On 25/08/2023
+Finished Output Generation At 18:49:16 On 26.02.2024
