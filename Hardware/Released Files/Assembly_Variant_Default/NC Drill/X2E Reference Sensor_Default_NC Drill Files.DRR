@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: X2E Reference Sensor.PcbDoc   26.02.2024  18:49:08
+NCDrill File Report For: X2E Reference Sensor.PcbDoc   06.03.2024  19:23:51
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -10,7 +10,7 @@ EIA File   : X2E Reference Sensor_Default_NC Drill Files.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             627       PTH        1553.22mm (61.15inch)
+T1      0.3mm (12mil)                                             Round             627       PTH        1591.14mm (62.64inch)
 T2      0.6mm (24mil)                                             Slot              4         PTH        38.14mm (1.50inch)
 T3      0.8mm (31mil)                                             Round             4         PTH        6.00mm (0.24inch)
 T4      0.9mm (35mil)                                             Round             2         PTH        2.00mm (0.08inch)

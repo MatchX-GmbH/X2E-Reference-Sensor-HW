@@ -4,13 +4,14 @@ D:\src\Altium\x2e-reference-sensor\Hardware\Released Files\Assembly_Variant_Defa
 ========================================================================================================================
 File Design Information:
 
-Date:       26.02.24
-Time:       18:49
-Revision:   ad13a999f3264f748d2f30353cb064fc3106f27a
+Date:       06.03.24
+Time:       19:23
+Revision:   45296cbd3de7ce70d8b96a7818cebb5251fd7bf7
 Variant:    Default
 Units used: mm
 
 Designator Comment              Layer       Footprint                       Center-X(mm) Center-Y(mm) Rotation Description                                                                                                        
+R39        0R                   TopLayer    R0402                           -14.3761     1.5015       90       "RES, 0R, 1%, 1/16 W, 0402"                                                                                        
 J8         Arduino_Conn         TopLayer    ARDUINO-D                       -24.1500     2.8260       270      "Arduino Template"                                                                                                 
 J6         Arduino_Conn         TopLayer    ARDUINO-C                       -24.1500     27.2100      270      "Arduino Template"                                                                                                 
 J7         Arduino_Conn         TopLayer    ARDUINO-B                       24.1100      29.7500      90       "Arduino Template"                                                                                                 
@@ -169,7 +170,7 @@ D2         ESD9L5.0ST5G         TopLayer    SOD-923                         20.2
 D1         150060RS75000        TopLayer    LED0603                         20.6500      4.1000       90       "Red 625nm LED Indication - Discrete 2V 0603 (1608 Metric)"                                                        
 C38        "100 nF"             TopLayer    C0402                           -15.2000     33.5000      180      "CAP, CERM, 100 nF, 50V, +/- 10%, X7R, 0402"                                                                       
 C37        10uF                 TopLayer    C0805                           -15.6000     32.1000      180      "CAP, CERM, 10uF, 16V, +/- 20%, X5R, 0805"                                                                         
-C36        "100 nF"             TopLayer    C0402                           -14.2500     0.2000       270      "CAP, CERM, 100 nF, 50V, +/- 10%, X7R, 0402"                                                                       
+C36        "100 nF"             TopLayer    C0402                           -14.3638     -0.2951      270      "CAP, CERM, 100 nF, 50V, +/- 10%, X7R, 0402"                                                                       
 C35        10uF                 TopLayer    C0805                           -15.8500     -0.1000      270      "CAP, CERM, 10uF, 16V, +/- 20%, X5R, 0805"                                                                         
 C33        12pF                 TopLayer    C0402                           4.6500       21.2000      0        "CAP, CERM, 12pF, 16V, +/- 5%, C0G/NP0, 0402"                                                                      
 C32        12pF                 TopLayer    C0402                           2.6500       21.2000      180      "CAP, CERM, 12pF, 16V, +/- 5%, C0G/NP0, 0402"                                                                      
