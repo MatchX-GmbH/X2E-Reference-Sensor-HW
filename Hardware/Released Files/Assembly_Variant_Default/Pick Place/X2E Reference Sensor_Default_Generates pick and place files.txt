@@ -4,9 +4,9 @@ D:\src\Altium\x2e-reference-sensor\Hardware\Released Files\Assembly_Variant_Defa
 ========================================================================================================================
 File Design Information:
 
-Date:       06.03.24
-Time:       19:23
-Revision:   45296cbd3de7ce70d8b96a7818cebb5251fd7bf7
+Date:       17.04.24
+Time:       20:00
+Revision:   114243525a59e5c6490f94859891c10173c42c29
 Variant:    Default
 Units used: mm
 
@@ -19,7 +19,7 @@ J9         Arduino_Conn         TopLayer    ARDUINO-A                       24.1
 TP2        TP                   BottomLayer TP_SMD_1.5mm                    -16.8000     29.8000      0        "Test Point"                                                                                                       
 TP1        TP                   BottomLayer TP_SMD_1.5mm                    -1.7500      18.6000      0        "Test Point"                                                                                                       
 R26        1k                   TopLayer    R0402                           1.0500       -17.6000     0        "RES, 1k, 1%, 1/16 W, 0402"                                                                                        
-U2         SIM28ML              TopLayer    SIM28ML                         -7.8500      4.0000       0        "GPS Module 10.1x9.7x2.5mm 9600 Baud Rate"                                                                         
+U2         GT-1110-UB7X         TopLayer    SIM28ML                         -7.8500      4.0000       0        "GPS, GLONASS, QZSS and SBAS Module"                                                                               
 R24        10R                  TopLayer    R0402                           4.1500       3.7000       0        "RES, 10R, 1%, 1/16 W, 0402"                                                                                       
 R23        2k                   TopLayer    R0603                           -23.6000     -12.3000     90       "RES, 2k, 1%, 0.063 W, 0603"                                                                                       
 D13        LTST-S270KGKT        TopLayer    LED0603_RA                      -26.0000     -12.3000     270      "LED GREEN CLEAR 0603 R/A SMD / LED Uni-Color Green 574nm 2-Pin Chip LED T/R"                                      
@@ -125,8 +125,6 @@ R29        1M                   TopLayer    R0402                           16.3
 R28        5k1                  TopLayer    R0603                           19.1000      -2.6000      270      "RES, 5k1, 1%, 0.063 W, 0603"                                                                                      
 R27        5k1                  TopLayer    R0603                           19.7000      -9.0000      90       "RES, 5k1, 1%, 0.063 W, 0603"                                                                                      
 R21        0R                   TopLayer    R0402                           -16.3500     27.1000      180      "RES, 0R, 1%, 1/16 W, 0402"                                                                                        
-R20        5k1                  TopLayer    R0603                           -21.4000     -6.1000      0        "RES, 5k1, 1%, 0.063 W, 0603"                                                                                      
-R19        5k1                  TopLayer    R0603                           -21.4000     -8.6000      0        "RES, 5k1, 1%, 0.063 W, 0603"                                                                                      
 R18        100k                 TopLayer    R0402                           -19.6500     25.2000      180      "RES, 100k, 1%, 1/16 W, 0402"                                                                                      
 R17        1M                   TopLayer    R0402                           3.3500       7.0000       90       "RES, 1M, 1%, 1/16 W, 0402"                                                                                        
 R16        1k                   TopLayer    R0603                           4.5500       8.2000       90       "RES, 1k, 1%, 0.063 W, 0603"                                                                                       
@@ -137,8 +135,8 @@ R11        10R                  TopLayer    R0402                           -19.
 R10        10R                  TopLayer    R0402                           -20.4500     -13.3000     90       "RES, 10R, 1%, 1/16 W, 0402"                                                                                       
 R7         2k                   TopLayer    R0603                           19.8500      -22.5500     0        "RES, 2k, 1%, 0.063 W, 0603"                                                                                       
 R6         3k                   TopLayer    R0603                           13.8000      -22.1500     270      "RES, 3k, 1%, 0.063 W, 0603"                                                                                       
-R5         2k                   TopLayer    R0603                           19.8500      -23.8500     0        "RES, 2k, 1%, 0.063 W, 0603"                                                                                       
-R4         2k                   TopLayer    R0603                           18.4500      6.6000       270      "RES, 2k, 1%, 0.063 W, 0603"                                                                                       
+R5         3k9                  TopLayer    R0603                           19.8500      -23.8500     0        "RES, 3k9, 1%, 0.063 W, 0603"                                                                                      
+R4         3k9                  TopLayer    R0603                           18.4500      6.6000       270      "RES, 3k9, 1%, 0.063 W, 0603"                                                                                      
 R3         1k                   TopLayer    R0603                           18.4900      23.1600      0        "RES, 1k, 1%, 0.063 W, 0603"                                                                                       
 R2         10k                  TopLayer    R0402                           -4.9000      31.6000      0        "RES, 10k, 1%, 1/16 W, 0402"                                                                                       
 R1         1k                   TopLayer    R0603                           18.4500      28.6000      0        "RES, 1k, 1%, 0.063 W, 0603"                                                                                       
