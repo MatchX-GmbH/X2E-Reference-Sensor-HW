@@ -323,7 +323,7 @@ UniqueID=232A7918-330E-4A96-818D-F77CEC6F4714
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=23
+VariationCount=25
 Variation1=Designator=R?|UniqueId=\HBSDTFZE|Kind=1|AlternatePart= 
 Variation2=Designator=C?|UniqueId=\BDCLTBJE|Kind=0|AlternatePart= 
 Variation3=Designator=J1|UniqueId=\FNVFLOJH|Kind=1|AlternatePart= 
@@ -347,347 +347,165 @@ Variation20=Designator=C87|UniqueId=\YWCNSUFA|Kind=1|AlternatePart=
 Variation21=Designator=C88|UniqueId=\TGTZIJTA|Kind=1|AlternatePart= 
 Variation22=Designator=R?|UniqueId=\EILLGQWO|Kind=1|AlternatePart= 
 Variation23=Designator=R?|UniqueId=\LDRVJOZW|Kind=1|AlternatePart= 
+Variation24=Designator=R19|UniqueId=\QHDJJWYC|Kind=1|AlternatePart= 
+Variation25=Designator=R20|UniqueId=\NHSCYTQE|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for X2E Reference Sensor\Design Rule Check - X2E Reference Sensor.html
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\board\features
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\bottom_assembly\features
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\dielectric_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\dielectric_3\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\dielectric_5\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\int1__gnd_\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\int2__pwr_\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\mechanical_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\mechanical_3\features
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\mechanical_11\features
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\mechanical_13\features
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\mechanical_15\features
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\mechanical_16\features
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\mechanical_29\features
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\mechanical_32\features
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\rout\features
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\route_tool_path\features
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\top_3d_body\features
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\top_assembly\features
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\top_component_center\features
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\top_courtyard\features
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=C:\Users\x1lev\AppData\Local\Temp\ProD270.xls
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\odb\steps\pcb\layers\rout\tools
-DItemRevisionGUID=
-
-[GeneratedDocument47]
+[GeneratedDocument2]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\BOM\X2E Reference Sensor_Default_Bill of Materials.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument3]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\Pick Place\X2E Reference Sensor_Default_Generates pick and place files.txt
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument4]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument5]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.G1
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument6]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument7]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument8]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument9]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument10]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument11]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GM14
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument12]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument13]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument14]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument60]
+[GeneratedDocument15]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument61]
+[GeneratedDocument16]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument62]
+[GeneratedDocument17]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.REP
 DItemRevisionGUID=
 
-[GeneratedDocument63]
+[GeneratedDocument18]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\Gerber\X2E Reference Sensor_Default_Gerber Files.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument64]
+[GeneratedDocument19]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files-RoundHoles-NonPlated.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument65]
+[GeneratedDocument20]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files-RoundHoles-Plated.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument66]
+[GeneratedDocument21]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files-SlotHoles-Plated.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument67]
+[GeneratedDocument22]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files.DRL
 DItemRevisionGUID=
 
-[GeneratedDocument68]
+[GeneratedDocument23]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument69]
+[GeneratedDocument24]
 DocumentPath=..\..\Released Files\Assembly_Variant_Default\NC Drill\X2E Reference Sensor_Default_NC Drill Files.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument70]
-DocumentPath=..\..\Released Files\Assembly_Variant_Default\ODB\X2E Reference Sensor_Default_ODB++ Files.REP
-DItemRevisionGUID=
-
 [Parameter1]
-Name=VersionRevision
-Value=V1.2
+Name=ClientCompanyName
+Value=MatchX GmbH
 
 [Parameter2]
-Name=TotalSheetNumber
-Value=9
+Name=ClientContactEmail
+Value=piotr@matchx.io
 
 [Parameter3]
-Name=Title
-Value=X2E Reference Sensor
+Name=ClientContactName
+Value=Piotr Swiatek Brzezinski
 
 [Parameter4]
-Name=revision
-Value=1.2
+Name=ClientWebsite
+Value=www.matchx.io
 
 [Parameter5]
-Name=Project
-Value=X2E Reference Sensor
+Name=Company
+Value=MatchX
 
 [Parameter6]
-Name=organization
+Name=CompanyName
 Value=MatchX GmbH
 
 [Parameter7]
-Name=NotFitted
-Value=NF
+Name=DocumentNumber
+Value=001
 
 [Parameter8]
 Name=Engineer
 Value=PSB
 
 [Parameter9]
-Name=DocumentNumber
-Value=001
+Name=NotFitted
+Value=NF
 
 [Parameter10]
-Name=CompanyName
+Name=organization
 Value=MatchX GmbH
 
 [Parameter11]
-Name=Company
-Value=MatchX
+Name=Project
+Value=X2E Reference Sensor
 
 [Parameter12]
-Name=ClientWebsite
-Value=www.matchx.io
+Name=revision
+Value=1.2
 
 [Parameter13]
-Name=ClientContactName
-Value=Piotr Swiatek Brzezinski
+Name=Title
+Value=X2E Reference Sensor
 
 [Parameter14]
-Name=ClientContactEmail
-Value=piotr@matchx.io
+Name=TotalSheetNumber
+Value=9
 
 [Parameter15]
-Name=ClientCompanyName
-Value=MatchX GmbH
+Name=VersionRevision
+Value=V1.2
 
 [Configuration1]
 Name=Sources
